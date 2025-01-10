@@ -1,0 +1,1 @@
+This file contains details for the user authentication feature.
